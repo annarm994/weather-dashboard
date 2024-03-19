@@ -1,1 +1,6 @@
 I have decided to use the OpenWeatherMap API. I chose this API because it offers an extensive range of historical, forecasted, and current weather information for many different places throughout the globe. Many people find weather information useful, whether they need to plan trips, engage in outdoor activities, or just keep up with local conditions. The OpenWeatherMap API is also appropriate for integration into a tiny web application since it provides an easy-to-use interface with enough documentation.
+
+Application Concept:
+
+A weather forecast dashboard is the app I want to create. Using the OpenWeatherMap API, this dashboard will enable users to enter their location and obtain important weather data. The program will show the temperature, humidity, wind speed, and weather description. Also, it will provide users with a 5-day weather prediction so they can schedule their activities accordingly.
+
