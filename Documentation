@@ -1,0 +1,14 @@
+The program will have an easy-to-use interface that makes it simple for users to input their location and quickly access weather information. 
+The program will come with detailed instructions on how to use it, including how to understand the presented weather data.
+
+API Rate Limits: 
+
+The OpenWeatherMap API may have rate limits on the number of requests per minute or per day, 
+which could affect the application's performance under heavy usage.
+
+Data Accuracy: 
+
+While the API provides reliable weather data, occasional discrepancies or inaccuracies may occur, leading to potential user frustration.
+
+Cross-Origin Resource Sharing (CORS): 
+The application may encounter CORS issues when making requests to the OpenWeatherMap API from a different domain, requiring appropriate handling.
