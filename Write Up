@@ -4,3 +4,6 @@ Application Concept:
 
 A weather forecast dashboard is the app I want to create. Using the OpenWeatherMap API, this dashboard will enable users to enter their location and obtain important weather data. The program will show the temperature, humidity, wind speed, and weather description. Also, it will provide users with a 5-day weather prediction so they can schedule their activities accordingly.
 
+Potential Use Cases and Benefits:
+
+Before leaving on a vacation, users may check the weather prediction for their location, which will help them plan outdoor activities and prepare appropriately. Also, the program may be used by anyone planning outdoor events, including parties or weddings, to keep an eye on the weather and make the required preparations. Travelers may plan for their daily commute by looking at the weather forecast and taking into account elements like rain or snow.
